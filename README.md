@@ -2,6 +2,9 @@
 
 This project provides a simple way to interact with the Gemini chatbot using a local Markdown file. This is built primarily for my convenience, because I like to stay in the terminal with Neovim.
 
+![image](https://github.com/user-attachments/assets/b330c515-c994-47e9-a63d-ea09256105c7)
+
+
 ## Prerequisites
 
 *   Python 3.6+
